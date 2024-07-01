@@ -56,7 +56,7 @@ And run the navigation with
      ros2 launch scout_navigation mppi.launch.py 
      (dwa, teb, purepursuit. You can edit the config file and launch file to run what you want)
 
-<img alt="Lunar Simulation Example" src="scout_v2/scout_gazebo/doc/traversability.png" width="700">
+<img alt="Lunar Simulation Example" src="scout_v2/scout_gazebo/doc/navigation.png" width="700">
 
 
 # Benchmark
