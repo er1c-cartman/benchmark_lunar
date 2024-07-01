@@ -25,7 +25,7 @@ And run the simulation with
     
      ros2 launch scout_gazebo moon.launch.py
      
-<img alt="Lunar Simulation Example" src="scout_gazebo/doc/lunar.png" width="700">
+<img alt="Lunar Simulation Example" src="scout_v2/scout_gazebo/doc/lunar.png" width="700">
 
 
 
@@ -39,8 +39,8 @@ And run the elevation mapping and traversability estimation with
     
      ros2 launch elevation_mapping elevation_mapping.launch.py 
 
-<img alt="Lunar Simulation Example" src="scout_gazebo/doc/elevation.png" width="700">
-<img alt="Lunar Simulation Example" src="scout_gazebo/doc/traversability.png" width="700">
+<img alt="Lunar Simulation Example" src="scout_v2/scout_gazebo/doc/elevation.png" width="700">
+<img alt="Lunar Simulation Example" src="scout_v2/scout_gazebo/doc/traversability.png" width="700">
 
 To edit parameters of traversability estimation, you can change values in following file
 
@@ -56,7 +56,7 @@ And run the navigation with
      ros2 launch scout_navigation mppi.launch.py 
      (dwa, teb, purepursuit. You can edit the config file and launch file to run what you want)
 
-<img alt="Lunar Simulation Example" src="scout_gazebo/doc/traversability.png" width="700">
+<img alt="Lunar Simulation Example" src="scout_v2/scout_gazebo/doc/traversability.png" width="700">
 
 
 # Benchmark
